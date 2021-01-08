@@ -1,0 +1,17 @@
+-homework-1
+
+
+Las Variables son elementos de una lista que se almacena para poder usar mas tarde. Cada variable tiene su nombre de referencia y su valor. 
+
+Las Strings son palabras o bloques de textos. son un tipo de datos y van siempre entre comillas.
+
+Funciones (argumentos, return)
+Las Funciones usan las variables y sus valores como argumentos, para hacer algo con ellas, calcularlas, cambiarlas.
+AL final de estas usamos Return para que nos devulva el sultado. 
+
+Declaraciones if. 
+Para comparar datos dentro de una funcion usamos if, si la condicion dentro de if se cumple sera verdadero si no el resultado sera falso. para diferentes comparaciones se usan los operadores de comparacion( <, >, <=, >=, ===, !===)
+
+Valores booleanos (true, false)
+Son datos que solamente tienen dos valores u opciones. 
+Una condicion que solo se resuelve con un verdadero o falso.  
