@@ -1,0 +1,13 @@
+homework-3
+
+foor
+	 es una expresion en bucle para evaluar expresiones una y otra vez hasta que devuelve lo que estamos buscando o se etiene despues de un tiempo.
+
+&&
+	es un operador que se usa para evaluar dos comparaciones- expresiones, si ambas expresiones son verdaderas devolvera true. si uno o ambos de ellos es falso el operador devolvera falso. 
+
+|| 
+	es un operador que compara dos expresiones y determina si una de las dos es verdadera. devolvera true si al menos una es verdadera, devolvera false si ambas expresiones son falsas. 
+
+! 
+	es un operador que evalua una expresion y devuelve el valor booleano opuesto de lo que se le dijo. 
